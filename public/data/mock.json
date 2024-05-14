@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Create project structure",
+    "description": "Set up folders and files for components, reducers, and actions",
+    "status": "pending"
+  },
+  {
+    "title": "Implement Todo List component",
+    "description": "",
+    "status": "pending"
+  },
+  {
+    "title": "Implement Add Todo functionality",
+    "description": "Create a form to add new todo items to the list",
+    "status": "pending"
+  },
+  {
+    "title": "Set up project repository",
+    "description": "Initialize Git repository and push initial commit",
+    "status": "done"
+  },
+  {
+    "title": "Install dependencies",
+    "description": "",
+    "status": "done"
+  }
+]

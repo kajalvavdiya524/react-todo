@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    font-family: 'Inter', sans-serif;
+    @apply bg-gray-50 text-gray-800;
+  }
+
+  input,
+  select,
+  textarea,
+  button {
+    @apply outline-none;
+  }
+}
+
+@layer components {
+  .container {
+    @apply max-w-screen-md mx-auto px-6 py-12;
+  }
+
+  .form-control {
+    @apply px-4 py-2 text-sm rounded-md border w-full;
+  }
+}
