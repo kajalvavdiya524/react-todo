@@ -10,4 +10,4 @@
    npm run dev
    ```
 
-   Navigate to (localhost:5173)[http://localhost:5173] in the browser
+   Navigate to [localhost:5173](http://localhost:5173) in the browser
